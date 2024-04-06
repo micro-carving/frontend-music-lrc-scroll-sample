@@ -1,0 +1,64 @@
+<mxfile host="65bd71144e">
+    <diagram id="CoG3-vm7wWWinxErKf_b" name="Page-1">
+        <mxGraphModel dx="1002" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;strokeColor=#FF0000;" vertex="1" parent="1">
+                    <mxGeometry x="305" y="180" width="255" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;strokeColor=#2424FF;" vertex="1" parent="1">
+                    <mxGeometry x="377.5" y="85" width="120" height="310" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="endArrow=none;dashed=1;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="380" y="180" as="sourcePoint"/>
+                        <mxPoint x="497.5" y="180" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="" style="endArrow=none;dashed=1;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="377.5" y="300" as="sourcePoint"/>
+                        <mxPoint x="495" y="300" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="highlight lrc" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#00CC00;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="381.88" y="228.75" width="111.25" height="22.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#FFFFFF;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="357.5" y="85" width="20" height="155" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#FFFF66;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="497.5" y="85" width="20" height="95" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#FF0000;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="565" y="180" width="20" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="容器高度" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=center;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#FF0000;" vertex="1" parent="1">
+                    <mxGeometry x="565" y="220" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#00CC00;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;fontColor=#00CC00;" vertex="1" parent="1">
+                    <mxGeometry x="497.5" y="228.75" width="20" height="21.25" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="歌词高度" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=center;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#00CC00;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="250" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="已播放歌词高度" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=center;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="257.5" y="112.5" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="偏移量" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=center;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#FFFF66;" vertex="1" parent="1">
+                    <mxGeometry x="517.5" y="100" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="歌词高度 = li 的高度" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=center;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#00CC00;" vertex="1" parent="1">
+                    <mxGeometry x="99" y="430" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="已播放歌词高度 = li 的高度 * 歌词索引 + li 的高度 / 2" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=center;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="460" width="360" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="偏移量 = 已播放歌词高度 - 容器高度" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=center;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#FFFF66;" vertex="1" parent="1">
+                    <mxGeometry x="96" y="490" width="240" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  background: #000;
+  color: #666;
+  text-align: center;
+}
+
+audio {
+  width: 30vw;
+  outline: none;
+  margin: 30px 0;
+}
+
+.container {
+  height: 56vh;
+  overflow: hidden;
+}
+
+ul {
+  list-style: none;
+  /* 不推荐使用 margin-top 来实现歌词向上滚动效果，会改变布局几何信息，从而引发浏览器的重新渲染，导致性能降低（几何信息改变是在浏览器主线程渲染的） */
+  /* margin-top: -190px; */
+  /* 推荐使用 transform ，因为 transform 是在其他线程进行渲染绘制的，不会影响主线程，性能较高 */
+  /* transform: translateY(-190px); */
+  transition: 0.6s;
+}
+
+.container ul>li {
+  height: 30px;
+  line-height: 30px;
+  transition: 0.6s;
+}
+
+.container ul>li.active {
+  color: #fff;
+  /* 同理这里不通过使用 font-size 来改变选中歌词的大小，是因为改变几何信息导致性能降低 */
+  transform: scale(1.2);
+}
