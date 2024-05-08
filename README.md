@@ -22,6 +22,7 @@
 
 ```shell
 frontend-music-lrc-scroll-sample
+├─docs
 └─src
     ├─assets
     │  └─audio
@@ -29,7 +30,6 @@ frontend-music-lrc-scroll-sample
     │      ├─lyric
     │      └─sources
     ├─css
-    ├─doc
     └─js
 ```
 
